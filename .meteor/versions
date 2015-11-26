@@ -48,6 +48,7 @@ launch-screen@1.0.4
 livedata@1.0.15
 localstorage@1.0.5
 logging@1.0.8
+markdown@1.0.5
 meteor@1.1.10
 meteor-base@1.0.1
 minifiers@1.1.7
@@ -86,6 +87,7 @@ templating@1.1.5
 templating-tools@1.0.0
 tracker@1.0.9
 ui@1.0.8
+ultimatejs:tracker-react@0.0.4
 underscore@1.0.4
 url@1.0.5
 webapp@1.2.3
